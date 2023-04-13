@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:newcase/styles/styles.dart';
+import 'package:miniapp_codebase/styles/styles.dart';
 
 /// [CupertinoButton] wrapper
 class PrimaryTextButton extends StatelessWidget {

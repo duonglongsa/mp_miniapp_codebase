@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:newcase/styles/styles.dart';
+import 'package:miniapp_codebase/styles/styles.dart';
 
 /// {@template primary_text_form_field}
 /// Primary text form field

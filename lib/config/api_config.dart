@@ -1,6 +1,4 @@
-
-
-import 'package:newcase/utils/token_local_data_source.dart';
+import 'package:miniapp_codebase/app/data/data_source/local/token_local_data_source.dart';
 
 final ITokenLocalDataSource _iTokenLocalDataSource = SharedPreferencesTokenLocalDataSource();
 

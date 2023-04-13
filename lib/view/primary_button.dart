@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:mpcore/mpcore.dart';
-import 'package:newcase/styles/styles.dart';
+import 'package:miniapp_codebase/styles/styles.dart';
 
 /// {@template primary_button}
 /// Primary button

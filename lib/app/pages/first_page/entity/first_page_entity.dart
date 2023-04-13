@@ -1,4 +1,4 @@
-import 'package:newcase/app/data/models/first_page_response.dart';
+import 'package:miniapp_codebase/app/data/models/first_page_response.dart';
 
 class FirstPageEntity {
 

@@ -2,7 +2,7 @@ import 'package:flutter/widgets.dart';
 import 'package:mp_pull_to_refresh/indicator/classic_footer.dart';
 import 'package:mp_pull_to_refresh/indicator/classic_header.dart';
 import 'package:mp_pull_to_refresh/smart_refresher.dart';
-import 'package:newcase/styles/styles.dart';
+import 'package:miniapp_codebase/styles/styles.dart';
 
 class AppRefreshIndicator extends StatelessWidget {
   /// AppRefreshIndicator

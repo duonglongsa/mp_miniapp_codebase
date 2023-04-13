@@ -1,5 +1,5 @@
 
-import 'package:newcase/app/data/models/base_reponse.dart';
+import 'package:miniapp_codebase/app/data/models/base_reponse.dart';
 
 abstract class Repo {
   //abtract repo func in here

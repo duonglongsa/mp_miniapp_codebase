@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:mp_pull_to_refresh/smart_refresher.dart';
-import 'package:newcase/styles/styles.dart';
-import 'package:newcase/view/native_size_extension.dart';
-import 'package:newcase/view/pull_to_refresh/app_refresh_indicator.dart';
+import 'package:miniapp_codebase/styles/styles.dart';
+import 'package:miniapp_codebase/view/native_size_extension.dart';
+import 'package:miniapp_codebase/view/pull_to_refresh/app_refresh_indicator.dart';
 
 /// Data error widget
 class DataErrorWidget extends StatelessWidget {

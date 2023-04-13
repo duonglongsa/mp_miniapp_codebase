@@ -4,7 +4,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http_parser/http_parser.dart';
-import 'package:newcase/config/api_config.dart';
+import 'package:miniapp_codebase/config/api_config.dart';
 import 'package:path/path.dart';
 
 import 'network_intercepstors.dart';

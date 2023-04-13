@@ -1,10 +1,10 @@
 import 'package:dio/dio.dart';
 import 'package:mpcore/mpcore.dart';
-import 'package:newcase/app/data/models/base_reponse.dart';
-import 'package:newcase/app/data/models/refresh_token_response.dart';
-import 'package:newcase/app/data/models/refresh_token_response.dart';
-import 'package:newcase/utils/jwt_decoder.dart';
-import 'package:newcase/utils/token_local_data_source.dart';
+import 'package:miniapp_codebase/app/data/models/base_reponse.dart';
+import 'package:miniapp_codebase/app/data/models/refresh_token_response.dart';
+import 'package:miniapp_codebase/app/data/models/refresh_token_response.dart';
+import 'package:miniapp_codebase/utils/jwt_decoder.dart';
+import 'package:miniapp_codebase/app/data/data_source/local/token_local_data_source.dart';
 import 'package:uuid/uuid.dart';
 
 

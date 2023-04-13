@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:mpcore/mpcore.dart';
-import 'package:newcase/styles/styles.dart';
+import 'package:miniapp_codebase/styles/styles.dart';
 
 class LoadingView extends StatelessWidget {
   const LoadingView({

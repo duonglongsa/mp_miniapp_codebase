@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mpcore/mpcore.dart';
-import 'package:newcase/app/pages/first_page/screens/first_page_screen.dart';
-import 'package:newcase/utils/token_local_data_source.dart';
+import 'package:miniapp_codebase/app/pages/first_page/screen/first_page_screen.dart';
+import 'package:miniapp_codebase/app/data/data_source/local/token_local_data_source.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({

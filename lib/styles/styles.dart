@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:newcase/styles/colors.dart';
+import 'package:miniapp_codebase/styles/colors.dart';
 
 
 /// App Style instance

@@ -218,13 +218,13 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "newcase",
+      "name": "miniapp_codebase",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-04-13T04:44:55.670016Z",
+  "generated": "2023-04-13T07:04:07.015647Z",
   "generator": "pub",
   "generatorVersion": "2.19.0"
 }
