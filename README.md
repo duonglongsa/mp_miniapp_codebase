@@ -48,6 +48,7 @@ A mini app architecture for MPFlutter.
 ## Run project
 #### Debug
 Solution 1: Chose Run and Debug in VSCode
+
 ![image info](./assets/run_vscode.png)
 
 ![image info](./assets/debug_console.png)
@@ -63,4 +64,5 @@ dart lib/main.dart
 dart scripts/build_mpk.dart
 ```
 Output
+
 ![image info](./assets/mpk_output.png)
