@@ -1,0 +1,73 @@
+name: newcase
+description: A new MPFlutter project.
+publish_to: "none"
+version: 1.0.0+1
+playbox:
+  description: 
+  icon: school
+  background: blue
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter: 
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/flutter
+  flutter_web_plugins: 
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/flutter_web_plugins
+  mpcore:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/mpcore
+  mp_build_tools:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/mp_build_tools
+  get:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/getx
+  dio:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/dio
+  shared_preferences:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/shared_preferences
+  mp_shimmer:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/mp_shimmer
+  mp_pull_to_refresh:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/mp_pull_to_refresh
+  uuid: ^3.0.6
+dependency_overrides:
+  flutter: 
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/flutter
+  flutter_web_plugins: 
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/flutter_web_plugins
+  mpcore:
+    git:
+      url: https://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@github.com/blackmatrix2007/mbflutter.git
+      ref: main
+      path: packages/mpcore
